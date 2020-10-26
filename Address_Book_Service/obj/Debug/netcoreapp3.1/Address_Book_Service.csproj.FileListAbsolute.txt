@@ -1,0 +1,12 @@
+C:\Users\penelope.pitsi\Desktop\address Book\Address_Book_Service\bin\Debug\netcoreapp3.1\Address_Book_Service.deps.json
+C:\Users\penelope.pitsi\Desktop\address Book\Address_Book_Service\bin\Debug\netcoreapp3.1\Address_Book_Service.dll
+C:\Users\penelope.pitsi\Desktop\address Book\Address_Book_Service\bin\Debug\netcoreapp3.1\Address_Book_Service.pdb
+C:\Users\penelope.pitsi\Desktop\address Book\Address_Book_Service\bin\Debug\netcoreapp3.1\Address_Book_Data.dll
+C:\Users\penelope.pitsi\Desktop\address Book\Address_Book_Service\bin\Debug\netcoreapp3.1\Address_Book_Data.pdb
+C:\Users\penelope.pitsi\Desktop\address Book\Address_Book_Service\obj\Debug\netcoreapp3.1\Address_Book_Service.csprojAssemblyReference.cache
+C:\Users\penelope.pitsi\Desktop\address Book\Address_Book_Service\obj\Debug\netcoreapp3.1\Address_Book_Service.csproj.CoreCompileInputs.cache
+C:\Users\penelope.pitsi\Desktop\address Book\Address_Book_Service\obj\Debug\netcoreapp3.1\Address_Book_Service.AssemblyInfoInputs.cache
+C:\Users\penelope.pitsi\Desktop\address Book\Address_Book_Service\obj\Debug\netcoreapp3.1\Address_Book_Service.AssemblyInfo.cs
+C:\Users\penelope.pitsi\Desktop\address Book\Address_Book_Service\obj\Debug\netcoreapp3.1\Address_Book_Service.csproj.CopyComplete
+C:\Users\penelope.pitsi\Desktop\address Book\Address_Book_Service\obj\Debug\netcoreapp3.1\Address_Book_Service.dll
+C:\Users\penelope.pitsi\Desktop\address Book\Address_Book_Service\obj\Debug\netcoreapp3.1\Address_Book_Service.pdb

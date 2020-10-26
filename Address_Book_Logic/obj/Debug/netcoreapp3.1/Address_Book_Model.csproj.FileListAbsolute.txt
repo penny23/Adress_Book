@@ -1,0 +1,9 @@
+C:\Users\penelope.pitsi\Desktop\address Book\Address_Book_Logic\bin\Debug\netcoreapp3.1\Address_Book_Model.deps.json
+C:\Users\penelope.pitsi\Desktop\address Book\Address_Book_Logic\bin\Debug\netcoreapp3.1\Address_Book_Model.dll
+C:\Users\penelope.pitsi\Desktop\address Book\Address_Book_Logic\bin\Debug\netcoreapp3.1\Address_Book_Model.pdb
+C:\Users\penelope.pitsi\Desktop\address Book\Address_Book_Logic\obj\Debug\netcoreapp3.1\Address_Book_Model.csprojAssemblyReference.cache
+C:\Users\penelope.pitsi\Desktop\address Book\Address_Book_Logic\obj\Debug\netcoreapp3.1\Address_Book_Model.csproj.CoreCompileInputs.cache
+C:\Users\penelope.pitsi\Desktop\address Book\Address_Book_Logic\obj\Debug\netcoreapp3.1\Address_Book_Model.AssemblyInfoInputs.cache
+C:\Users\penelope.pitsi\Desktop\address Book\Address_Book_Logic\obj\Debug\netcoreapp3.1\Address_Book_Model.AssemblyInfo.cs
+C:\Users\penelope.pitsi\Desktop\address Book\Address_Book_Logic\obj\Debug\netcoreapp3.1\Address_Book_Model.dll
+C:\Users\penelope.pitsi\Desktop\address Book\Address_Book_Logic\obj\Debug\netcoreapp3.1\Address_Book_Model.pdb
